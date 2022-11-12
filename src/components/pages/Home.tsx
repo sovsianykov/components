@@ -11,6 +11,8 @@ const Home = () => {
     >
       <Typography variant="h5">Commit 1</Typography>
       <Typography variant="h5">Commit 2</Typography>
+      <Typography variant="body1">first changes from develop-1</Typography>
+
     </Box>
   );
 };
