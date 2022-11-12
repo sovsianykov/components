@@ -10,6 +10,7 @@ const Home = () => {
       sx={{ alignItems: "center", justifyContent: "center" }}
     >
       <Typography variant="h5">Commit 1</Typography>
+      <Typography variant="h5">Commit 2</Typography>
     </Box>
   );
 };
